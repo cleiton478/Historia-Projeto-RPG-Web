@@ -1,2 +1,2 @@
-# Hist-ria-Projeto-RPG-Web
+# Historia-Projeto-RPG-Web
 Projeto Ederson
