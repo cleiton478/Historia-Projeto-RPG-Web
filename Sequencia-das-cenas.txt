@@ -62,8 +62,3 @@ Malakar usa magia para tentar derrotar o protagonista, enquanto a Luz de Eldor p
 Com Malakar derrotado, sua magia é destruída. A Luz de Eldor volta a proteger o reino e os monstros desaparecem.
 O rei agradece ao protagonista e o convida para se tornar um Cavaleiro de Eldoria.
 O jogo termina com o herói olhando para o reino, deixando a possibilidade de novas aventuras no futuro.
-
-Caminhos possíveis até o final
-Uma estrutura simples para o mapa seria:
-
-Pedra Branca → Floresta → Torre Abandonada → Ruínas/Santuário Esquecido → Caverna → Guardião das Sombras → Castelo → Malakar → Final
