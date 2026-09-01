@@ -1,0 +1,69 @@
+Sequência das cenas
+
+1. Vila de Pedra Branca — Início
+O jogo começa com o protagonista na vila de Pedra Branca. Um mensageiro do rei chega trazendo uma missão: encontrar a Luz de Eldor, que foi roubada.
+O jogador descobre que o principal suspeito é o feiticeiro Malakar, que estaria escondido em uma torre abandonada.
+Objetivo: sair da vila e começar a busca pela espada.
+
+2. Floresta Misteriosa
+O protagonista entra na floresta para chegar à torre. Durante o caminho, encontra monstros e pistas sobre o roubo.
+Aqui podem acontecer desafios aleatórios usando dados.
+Possíveis desafios:
+
+ Lobo: jogar um dado. Se tirar 4, 5 ou 6, derrota o lobo. Se tirar 1, 2 ou 3, perde alguns pontos de vida.
+ Goblins: jogar um dado. Se tirar 5 ou 6, consegue passar sem ser cercado. Caso contrário, precisa lutar.
+ Caminho perdido: o jogador rola o dado para descobrir se encontra o caminho correto ou perde tempo explorando a floresta.
+
+3. Torre Abandonada
+O protagonista chega à torre onde acreditava que Malakar estava.
+Porém, ao explorar o local, descobre que o feiticeiro já foi embora. Há pistas indicando que a espada foi levada para uma caverna pelo Guardião das Sombras.
+Objetivo: descobrir para onde a espada foi levada.
+
+4. Antiga Ruína / Santuário Esquecido
+O protagonista encontra um cavaleiro que revela que a espada está na caverna.
+Durante a exploração, o jogador pode escolher um caminho:
+
+ Explorar o santuário: enfrenta um desafio com dados e pode conseguir uma poção ou item mágico.
+ Seguir diretamente para a caverna: não ganha o item, mas avança mais rápido.
+
+5. Caverna das Sombras
+O protagonista entra na caverna e enfrenta diferentes criaturas.
+Aqui podem aparecer novos desafios aleatórios:
+
+ Armadilha: o jogador rola o dado. Com 1 ou 2, cai em uma armadilha e perde vida. Com 3 a 6, percebe a armadilha a tempo.
+ Monstro da caverna: com 4, 5 ou 6, o protagonista derrota o monstro; com 1, 2 ou 3, sofre dano.
+ Tesouro: uma sala pode conter uma poção de cura ou um item útil, dependendo do resultado do dado.
+
+6. Guardião das Sombras — Boss
+No final da caverna acontece a batalha contra o Guardião das Sombras.
+O jogador precisa derrotá-lo para recuperar a Luz de Eldor.
+Se vencer: consegue recuperar a espada.
+Se perder: pode tentar novamente ou retornar para explorar a caverna e encontrar itens que aumentem sua força.
+
+7. Retorno ao Castelo
+Depois de recuperar a espada, o protagonista descobre que Malakar já começou seu ataque ao castelo.
+O jogador retorna rapidamente para Eldoria levando a Luz de Eldor.
+Aqui existe um caminho alternativo:
+
+Caminho seguro: voltar pela estrada principal, enfrentando poucos inimigos.
+Caminho rápido: atravessar novamente a floresta, com mais chances de encontrar monstros, mas chegando mais rápido ao castelo.
+
+8. Castelo de Eldoria — Batalha Final
+O protagonista chega ao castelo e encontra Malakar.
+Começa a batalha final.
+Malakar usa magia para tentar derrotar o protagonista, enquanto a Luz de Eldor possui o poder necessário para destruir sua magia.
+
+ O jogador pode fazer uma última rolagem de dado:
+
+4, 5 ou 6: a Luz de Eldor destrói a magia de Malakar e o herói vence.
+1, 2 ou 3: Malakar resiste e o jogador precisa tentar novamente.
+
+9. Final — Paz em Eldoria
+Com Malakar derrotado, sua magia é destruída. A Luz de Eldor volta a proteger o reino e os monstros desaparecem.
+O rei agradece ao protagonista e o convida para se tornar um Cavaleiro de Eldoria.
+O jogo termina com o herói olhando para o reino, deixando a possibilidade de novas aventuras no futuro.
+
+Caminhos possíveis até o final
+Uma estrutura simples para o mapa seria:
+
+Pedra Branca → Floresta → Torre Abandonada → Ruínas/Santuário Esquecido → Caverna → Guardião das Sombras → Castelo → Malakar → Final
